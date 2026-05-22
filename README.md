@@ -1,4 +1,4 @@
-# 🐍 Caderno Temático — Python com IA Generativa 🐍
+# 🐍 Caderno Temático — Python com IA Generativa 
 
 
 ## 📌 Sobre o Projeto
